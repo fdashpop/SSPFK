@@ -5,7 +5,7 @@ Small Soldering Project for Kids
 
 <body>
 <h1>Bill of Materials: RobotFinalV1.fzz</h1>
-<p class="meta">/Users/marduc/Desktop/Train_prod/RobotFinalV1.fzz</p>
+
 <p class="meta">Friday, March 20 2020, 13:47:00</p>
 
 <h2>Assembly List</h2>
