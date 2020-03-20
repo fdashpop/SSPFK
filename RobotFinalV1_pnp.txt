@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=RobotFinalV1
+*Date=13:07:00
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;42.1815;-64.5109;0;Bottom;Hole1
+2;;5 mm [THT];47.2292;-39.7769;0.999999;Bottom;LED2
+3;220;THT;22.9136;-27.4377;-45;Bottom;R1
+4;;battery_20mm_pth_compact;42.5216;-17.0196;180;Bottom;BAT1
+5;;5 mm [THT];37.1015;-39.7766;0;Bottom;LED1
+6;;5 mm [THT];42.1815;-55.0166;0;Bottom;LED3
