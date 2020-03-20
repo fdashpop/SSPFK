@@ -1,24 +1,7 @@
 # SSPFK
 Small Soldering Project for Kids
 
-table {
-	border-collapse: collapse;
-}
-th {
-	font-weight: bold;
-	text-align: left;
-	border-bottom: 1px solid black;
-	padding: 0.1em 1.5em 0.2em 0.1em;
-}
-td {
-	border-bottom: 1px solid #CCC;
-	padding: 0.5em 1.5em 0.5em 0.1em;
-}
-.props {
-	font-size: smaller;
-}
-</style>
-</head>
+
 
 <body>
 <h1>Bill of Materials: RobotFinalV1.fzz</h1>
